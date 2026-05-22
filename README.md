@@ -4,3 +4,5 @@ This project considers a small satellite orbiting Mars at a low altitude gatheri
 The project considers nummerical time integration, defining different reference frames and a non-linear control system.
 
 The project outline and objectives were created by Dr. Prof. Arya Vishala, for a full overview and understanding of the project please read PDF.
+![alt text](Skärmbild_191143.png)
+![alt text](Skärmbild_223055.png)
