@@ -1,3 +1,7 @@
+#This project was created by Dr. Prof. Arya Vishala. It is a very enjoyable project and 
+# I recommend you try and solve the problem tasks. 
+
+#All function defined below are complete and can used as you please.
 import numpy as np
 
 def MRP_to_DCM(sigma):
